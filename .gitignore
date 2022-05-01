@@ -1,0 +1,9 @@
+resources
+cache/
+data/
+modules/
+*.exe
+server.cfg
+server.log
+AltV.Net.Host.dll
+AltV.Net.Host.runtimeconfig.json
