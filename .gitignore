@@ -3,6 +3,7 @@ cache/
 data/
 modules/
 *.exe
+altv-server
 server.cfg
 server.log
 AltV.Net.Host.dll
