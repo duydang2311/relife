@@ -10,3 +10,7 @@
 	path = src/client
 	url = https://github.com/duydang2311/relife-client
 	branch = main
+[submodule "src/shared"]
+	path = src/shared
+	url = https://github.com/duydang2311/relife-shared.git
+	branch = main
