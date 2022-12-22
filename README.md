@@ -1,27 +1,25 @@
 # Repository of re:LIFE source code
 
-### Dependencies
+## Dependencies
 
-#### Server-side
+### Server-side
 
 - C#
 
-- Microsoft DI
+- Microsoft DependencyInjection
 
-- Dapper w/ custom query pipeline builder
+- Dapper w/ custom sql builder
 
-#### Client-side
+### Client-side
 
 - TypeScript
 
 - TSyringe
 
-#### Webview
+### Front-end
 
 - Svelte
 
 - TypeScript
 
-- Sass
-
-- Framer
+- TailwindCSS
