@@ -2,10 +2,6 @@
 	path = src/server
 	url = https://github.com/duydang2311/relife-server
 	branch = main
-[submodule "src/browser"]
-	path = src/browser
-	url = https://github.com/duydang2311/relife-browser
-	branch = main
 [submodule "src/client"]
 	path = src/client
 	url = https://github.com/duydang2311/relife-client
