@@ -1,15 +1,15 @@
 [submodule "src/server"]
 	path = src/server
-	url = https://github.com/duydang2311/relife-server
+	url = git@github.com-duydang2311:duydang2311/relife-server.git
 	branch = main
 [submodule "src/client"]
 	path = src/client
-	url = https://github.com/duydang2311/relife-client
+	url = git@github.com-duydang2311:duydang2311/relife-client.git
 	branch = main
 [submodule "src/shared"]
 	path = src/shared
-	url = https://github.com/duydang2311/relife-shared.git
+	url = git@github.com-duydang2311:duydang2311/relife-shared.git
 	branch = main
 [submodule "src/frontend"]
 	path = src/frontend
-	url = git@github.com:duydang2311/relife-frontend.git
+	url = git@github.com-duydang2311:duydang2311/relife-frontend.git
